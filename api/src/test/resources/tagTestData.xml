@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <muzima_form_tag muzima_form_tag_id="1" name="Registration"/>
+    <muzima_form_tag muzima_form_tag_id="2" name="Patient"/>
+    <muzima_form_tag muzima_form_tag_id="3" name="Encounter"/>
+    <muzima_form_tag muzima_form_tag_id="4" name="HIV"/>
+</dataset>
